@@ -2,19 +2,18 @@
 
 ## Legend
 - [ ] To do
-- [x] Done
-- 🔄 In progress
+- [ ] Done
 
 ---
 
 ## Phase 0: Foundation & Design System
 
-- [x] **0.1** Install Fluent UI 9 (`@fluentui/react-components`, `@fluentui/react-icons`)
-- [x] **0.2** Set up FluentProvider with custom Altus theme (map design spec colors, typography, spacing, shadows to Fluent tokens)
-- [x] **0.3** Update Tailwind config and `index.css` with complementary Altus design tokens (status colors: green/yellow/red, AI layer tint, spacing scale)
-- [x] **0.4** Create shared TypeScript interfaces for all data entities (Project, CostData, ScheduleData, ScopeData, ResourceData, RiskData, IssueData, DependencyData, ChangeData, AIInsightData)
-- [x] **0.5** Create mock data files with realistic project data (2-3 projects with varying health states)
-- [x] **0.6** Set up routing structure: `/projects` (list), `/projects/:id` (overview with tabs)
+- [ ] **0.1** Install Fluent UI 9 (`@fluentui/react-components`, `@fluentui/react-icons`)
+- [ ] **0.2** Set up FluentProvider with custom Altus theme (map design spec colors, typography, spacing, shadows to Fluent tokens)
+- [ ] **0.3** Update Tailwind config and `index.css` with complementary Altus design tokens (status colors: green/yellow/red, AI layer tint, spacing scale)
+- [ ] **0.4** Create shared TypeScript interfaces for all data entities (Project, CostData, ScheduleData, ScopeData, ResourceData, RiskData, IssueData, DependencyData, ChangeData, AIInsightData)
+- [ ] **0.5** Create mock data files with realistic project data (2-3 projects with varying health states)
+- [ ] **0.6** Set up routing structure: `/projects` (list), `/projects/:id` (overview with tabs)
 
 ---
 
